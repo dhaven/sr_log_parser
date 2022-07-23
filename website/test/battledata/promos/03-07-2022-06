@@ -1,0 +1,6619 @@
+{
+  "status": "success",
+  "data": {
+    "firstPlayer": "HardAI",
+    "winner": "Player",
+    "rounds": [
+      {
+        "tradePool": 2,
+        "combatPool": 1,
+        "usedTrade": -1,
+        "usedCombat": -1,
+        "purchasedCards": [
+          "blobfighter"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "Player": {
+            "diff": -1,
+            "new": 49
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": false,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            }
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 49
+          }
+        ]
+      },
+      {
+        "tradePool": 4,
+        "combatPool": 1,
+        "usedTrade": -4,
+        "usedCombat": -1,
+        "purchasedCards": [
+          "stealthneedle"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "HardAI": {
+            "diff": -1,
+            "new": 49
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 49
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 49
+          }
+        ]
+      },
+      {
+        "tradePool": 4,
+        "combatPool": 1,
+        "usedTrade": -3,
+        "usedCombat": -1,
+        "purchasedCards": [
+          "surveyship"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "Player": {
+            "diff": -1,
+            "new": 48
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 49
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 48
+          }
+        ]
+      },
+      {
+        "tradePool": 4,
+        "combatPool": 1,
+        "usedTrade": -4,
+        "usedCombat": -1,
+        "purchasedCards": [
+          "explorer",
+          "explorer"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "HardAI": {
+            "diff": -1,
+            "new": 48
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 48
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 48
+          }
+        ]
+      },
+      {
+        "tradePool": 4,
+        "combatPool": 1,
+        "usedTrade": -4,
+        "usedCombat": -1,
+        "purchasedCards": [
+          "imperialdefender",
+          "blockaderunner"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "Player": {
+            "diff": -1,
+            "new": 47
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 48
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 47
+          }
+        ]
+      },
+      {
+        "tradePool": 4,
+        "combatPool": 1,
+        "usedTrade": -3,
+        "usedCombat": -1,
+        "purchasedCards": [
+          "fortressoblivion"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "stealthneedle"
+        ],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "HardAI": {
+            "diff": -1,
+            "new": 47
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 47
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 47
+          }
+        ]
+      },
+      {
+        "tradePool": 5,
+        "combatPool": 3,
+        "usedTrade": -5,
+        "usedCombat": -3,
+        "purchasedCards": [
+          "bountyhunter"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 1,
+        "authority": {
+          "Player": {
+            "diff": -3,
+            "new": 44
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 47
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 44
+          }
+        ]
+      },
+      {
+        "tradePool": 5,
+        "combatPool": 1,
+        "usedTrade": -5,
+        "usedCombat": -1,
+        "purchasedCards": [
+          "supplybot",
+          "explorer"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "HardAI": {
+            "diff": -1,
+            "new": 46
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 46
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 3,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 44
+          }
+        ]
+      },
+      {
+        "tradePool": 4,
+        "combatPool": 4,
+        "usedTrade": -3,
+        "usedCombat": -4,
+        "purchasedCards": [
+          "blobwheel"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "blockaderunner"
+        ],
+        "scrappedCards": [
+          "blockaderunner"
+        ],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 4,
+        "authority": {
+          "Player": {
+            "diff": -4,
+            "new": 40
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 46
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 3,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 40
+          }
+        ]
+      },
+      {
+        "tradePool": 6,
+        "combatPool": 0,
+        "usedTrade": -5,
+        "usedCombat": 0,
+        "purchasedCards": [
+          "midgatestation"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [
+          "scout"
+        ],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {},
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 46
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 3,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 40
+          }
+        ]
+      },
+      {
+        "tradePool": 4,
+        "combatPool": 8,
+        "usedTrade": -3,
+        "usedCombat": -8,
+        "purchasedCards": [
+          "templeguardian"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 1,
+        "authority": {
+          "Player": {
+            "diff": -8,
+            "new": 32
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 46
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 3,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 32
+          }
+        ]
+      },
+      {
+        "tradePool": 2,
+        "combatPool": 2,
+        "usedTrade": -2,
+        "usedCombat": -2,
+        "purchasedCards": [
+          "tradepod"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "fortressoblivion",
+          "stealthneedle"
+        ],
+        "scrappedCards": [
+          "scout"
+        ],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "HardAI": {
+            "diff": -2,
+            "new": 44
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 44
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 3,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 32
+          }
+        ]
+      },
+      {
+        "tradePool": 5,
+        "combatPool": 1,
+        "usedTrade": -5,
+        "usedCombat": 0,
+        "purchasedCards": [
+          "missilebot",
+          "imperialfrigate"
+        ],
+        "completedMission": "",
+        "playedCards": [],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 1,
+        "authority": {},
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 44
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 3,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 32
+          }
+        ]
+      },
+      {
+        "tradePool": 6,
+        "combatPool": 5,
+        "usedTrade": -5,
+        "usedCombat": -5,
+        "purchasedCards": [
+          "imperialfighter",
+          "explorer",
+          "explorer"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "supplybot"
+        ],
+        "scrappedCards": [
+          "viper",
+          "explorer"
+        ],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "HardAI": {
+            "diff": -5,
+            "new": 39
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 39
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 5,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 32
+          }
+        ]
+      },
+      {
+        "tradePool": 3,
+        "combatPool": 12,
+        "usedTrade": -2,
+        "usedCombat": -12,
+        "purchasedCards": [
+          "explorer"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "templeguardian"
+        ],
+        "scrappedCards": [],
+        "discardedCards": [],
+        "destroyedBases": [
+          "fortressoblivion"
+        ],
+        "winner": "",
+        "drawCount": 1,
+        "authority": {
+          "Player": {
+            "diff": -8,
+            "new": 24
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 39
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 5,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 24
+          }
+        ]
+      },
+      {
+        "tradePool": 8,
+        "combatPool": 2,
+        "usedTrade": -7,
+        "usedCombat": -2,
+        "purchasedCards": [
+          "megahauler"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "midgatestation",
+          "tradepod",
+          "explorer"
+        ],
+        "scrappedCards": [
+          "explorer"
+        ],
+        "discardedCards": [
+          "scout",
+          "scout"
+        ],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "HardAI": {
+            "diff": -2,
+            "new": 37
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 37
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 3,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 5,
+                "scrapCount": 2,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "megahauler": {
+                "name": "Mega Hauler",
+                "cost": 7,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 24
+          }
+        ]
+      },
+      {
+        "tradePool": 7,
+        "combatPool": 1,
+        "usedTrade": -7,
+        "usedCombat": 0,
+        "purchasedCards": [
+          "dreadnaught"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "blobwheel"
+        ],
+        "scrappedCards": [
+          "blobwheel"
+        ],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {},
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "dreadnaught": {
+                "name": "Dreadnaught",
+                "cost": 7,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 37
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 3,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 5,
+                "scrapCount": 2,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "megahauler": {
+                "name": "Mega Hauler",
+                "cost": 7,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 24
+          }
+        ]
+      },
+      {
+        "tradePool": 7,
+        "combatPool": 2,
+        "usedTrade": -7,
+        "usedCombat": -2,
+        "purchasedCards": [
+          "spawningwurm"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "explorer"
+        ],
+        "scrappedCards": [
+          "explorer"
+        ],
+        "discardedCards": [
+          "viper",
+          "scout",
+          "scout",
+          "scout"
+        ],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "HardAI": {
+            "diff": -2,
+            "new": 35
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "dreadnaught": {
+                "name": "Dreadnaught",
+                "cost": 7,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 35
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 6,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 5,
+                "scrapCount": 3,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "megahauler": {
+                "name": "Mega Hauler",
+                "cost": 7,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "spawningwurm": {
+                "name": "Spawning Wurm",
+                "cost": 7,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 24
+          }
+        ]
+      },
+      {
+        "tradePool": 3,
+        "combatPool": 3,
+        "usedTrade": -2,
+        "usedCombat": 0,
+        "purchasedCards": [
+          "blockaderunner",
+          "cargorocket"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "missilebot"
+        ],
+        "scrappedCards": [
+          "scout"
+        ],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {},
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "dreadnaught": {
+                "name": "Dreadnaught",
+                "cost": 7,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "cargorocket": {
+                "name": "Cargo Rocket",
+                "cost": 1,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 35
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 6,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 5,
+                "scrapCount": 3,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "megahauler": {
+                "name": "Mega Hauler",
+                "cost": 7,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "spawningwurm": {
+                "name": "Spawning Wurm",
+                "cost": 7,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 24
+          }
+        ]
+      },
+      {
+        "tradePool": 10,
+        "combatPool": 8,
+        "usedTrade": -10,
+        "usedCombat": -8,
+        "purchasedCards": [
+          "brainworld",
+          "explorer"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "supplybot",
+          "stealthneedle"
+        ],
+        "scrappedCards": [
+          "viper",
+          "explorer",
+          "explorer"
+        ],
+        "discardedCards": [
+          "scout"
+        ],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "HardAI": {
+            "diff": -8,
+            "new": 27
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "dreadnaught": {
+                "name": "Dreadnaught",
+                "cost": 7,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "cargorocket": {
+                "name": "Cargo Rocket",
+                "cost": 1,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 27
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 7,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 2,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 3
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 6,
+                "scrapCount": 5,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "megahauler": {
+                "name": "Mega Hauler",
+                "cost": 7,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "spawningwurm": {
+                "name": "Spawning Wurm",
+                "cost": 7,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "brainworld": {
+                "name": "Brain World",
+                "cost": 8,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 24
+          }
+        ]
+      },
+      {
+        "tradePool": 4,
+        "combatPool": 15,
+        "usedTrade": -4,
+        "usedCombat": -15,
+        "purchasedCards": [
+          "recyclingstation"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "templeguardian"
+        ],
+        "scrappedCards": [
+          "explorer"
+        ],
+        "discardedCards": [],
+        "destroyedBases": [
+          "midgatestation"
+        ],
+        "winner": "",
+        "drawCount": 2,
+        "authority": {
+          "Player": {
+            "diff": -10,
+            "new": 14
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "dreadnaught": {
+                "name": "Dreadnaught",
+                "cost": 7,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "cargorocket": {
+                "name": "Cargo Rocket",
+                "cost": 1,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "recyclingstation": {
+                "name": "Recycling Station",
+                "cost": 4,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 27
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 7,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 2,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 3
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 6,
+                "scrapCount": 5,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "megahauler": {
+                "name": "Mega Hauler",
+                "cost": 7,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "spawningwurm": {
+                "name": "Spawning Wurm",
+                "cost": 7,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "brainworld": {
+                "name": "Brain World",
+                "cost": 8,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 14
+          }
+        ]
+      },
+      {
+        "tradePool": 3,
+        "combatPool": 2,
+        "usedTrade": -3,
+        "usedCombat": -2,
+        "purchasedCards": [
+          "mercbattlecruiser",
+          "freightraft"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "fortressoblivion",
+          "megahauler"
+        ],
+        "scrappedCards": [
+          "scout"
+        ],
+        "discardedCards": [],
+        "destroyedBases": [],
+        "winner": "",
+        "drawCount": 0,
+        "authority": {
+          "Player": {
+            "diff": 5,
+            "new": 19
+          },
+          "HardAI": {
+            "diff": -2,
+            "new": 25
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "dreadnaught": {
+                "name": "Dreadnaught",
+                "cost": 7,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "cargorocket": {
+                "name": "Cargo Rocket",
+                "cost": 1,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "recyclingstation": {
+                "name": "Recycling Station",
+                "cost": 4,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 25
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 2,
+                "discardCount": 7,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 2,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 3
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 6,
+                "scrapCount": 5,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 2
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "megahauler": {
+                "name": "Mega Hauler",
+                "cost": 7,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "spawningwurm": {
+                "name": "Spawning Wurm",
+                "cost": 7,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "brainworld": {
+                "name": "Brain World",
+                "cost": 8,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "mercbattlecruiser": {
+                "name": "Merc Battlecruiser",
+                "cost": 6,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "freightraft": {
+                "name": "Freight Raft",
+                "cost": 3,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 19
+          }
+        ]
+      },
+      {
+        "tradePool": 2,
+        "combatPool": 15,
+        "usedTrade": -2,
+        "usedCombat": -15,
+        "purchasedCards": [
+          "imperialsmuggler"
+        ],
+        "completedMission": "",
+        "playedCards": [
+          "templeguardian",
+          "blockaderunner",
+          "recyclingstation"
+        ],
+        "scrappedCards": [
+          "blockaderunner",
+          "imperialfrigate"
+        ],
+        "discardedCards": [
+          "scout"
+        ],
+        "destroyedBases": [
+          "fortressoblivion"
+        ],
+        "winner": "",
+        "drawCount": 2,
+        "authority": {
+          "HardAI": {
+            "diff": 3,
+            "new": 28
+          },
+          "Player": {
+            "diff": -11,
+            "new": 8
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 2,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 3
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "dreadnaught": {
+                "name": "Dreadnaught",
+                "cost": 7,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "cargorocket": {
+                "name": "Cargo Rocket",
+                "cost": 1,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "recyclingstation": {
+                "name": "Recycling Station",
+                "cost": 4,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialsmuggler": {
+                "name": "Imperial Smuggler",
+                "cost": 2,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 28
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 2,
+                "discardCount": 7,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 2,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 3
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 6,
+                "scrapCount": 5,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 2,
+                "playedCount": 2
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "megahauler": {
+                "name": "Mega Hauler",
+                "cost": 7,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "spawningwurm": {
+                "name": "Spawning Wurm",
+                "cost": 7,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "brainworld": {
+                "name": "Brain World",
+                "cost": 8,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "mercbattlecruiser": {
+                "name": "Merc Battlecruiser",
+                "cost": 6,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "freightraft": {
+                "name": "Freight Raft",
+                "cost": 3,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 8
+          }
+        ]
+      },
+      {
+        "tradePool": 2,
+        "combatPool": 38,
+        "usedTrade": 0,
+        "usedCombat": -38,
+        "purchasedCards": [],
+        "completedMission": "",
+        "playedCards": [
+          "brainworld",
+          "spawningwurm",
+          "stealthneedle",
+          "mercbattlecruiser"
+        ],
+        "scrappedCards": [
+          "scout",
+          "imperialfighter",
+          "spawningwurm",
+          "stealthneedle"
+        ],
+        "discardedCards": [
+          "scout",
+          "supplybot"
+        ],
+        "destroyedBases": [],
+        "winner": "Player",
+        "drawCount": 3,
+        "authority": {
+          "HardAI": {
+            "diff": -38,
+            "new": 6
+          }
+        },
+        "players": [
+          {
+            "name": "HardAI",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "blobfighter": {
+                "name": "Blob Fighter",
+                "cost": 1,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 1,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "surveyship": {
+                "name": "Survey Ship",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "imperialdefender": {
+                "name": "Imperial Defender",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blockaderunner": {
+                "name": "Blockade Runner",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 2,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "bountyhunter": {
+                "name": "Bounty Hunter",
+                "cost": 5,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "blobwheel": {
+                "name": "Blob Wheel",
+                "cost": 3,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "templeguardian": {
+                "name": "Temple Guardian",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 3
+              },
+              "missilebot": {
+                "name": "Missile Bot",
+                "cost": 2,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfrigate": {
+                "name": "Imperial Frigate",
+                "cost": 3,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "dreadnaught": {
+                "name": "Dreadnaught",
+                "cost": 7,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "cargorocket": {
+                "name": "Cargo Rocket",
+                "cost": 1,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "recyclingstation": {
+                "name": "Recycling Station",
+                "cost": 4,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialsmuggler": {
+                "name": "Imperial Smuggler",
+                "cost": 2,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": -10
+          },
+          {
+            "name": "Player",
+            "completedMissions": [],
+            "deckInitialized": true,
+            "deck": {
+              "scout": {
+                "name": "Scout",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 8,
+                "scrapCount": 3,
+                "discardCount": 8,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "viper": {
+                "name": "Viper",
+                "cost": 0,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 2,
+                "scrapCount": 2,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "stealthneedle": {
+                "name": "Stealth Needle",
+                "cost": 1,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 4
+              },
+              "explorer": {
+                "name": "Explorer",
+                "cost": 2,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 6,
+                "scrapCount": 5,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "fortressoblivion": {
+                "name": "Fortress Oblivion",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 2,
+                "playedCount": 2
+              },
+              "supplybot": {
+                "name": "Supply Bot",
+                "cost": 3,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 1,
+                "destroyedCount": 0,
+                "playedCount": 2
+              },
+              "midgatestation": {
+                "name": "Midgate Station",
+                "cost": 5,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 1,
+                "playedCount": 1
+              },
+              "tradepod": {
+                "name": "Trade Pod",
+                "cost": 2,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "imperialfighter": {
+                "name": "Imperial Fighter",
+                "cost": 1,
+                "faction": [
+                  "Star Empire"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              },
+              "megahauler": {
+                "name": "Mega Hauler",
+                "cost": 7,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "spawningwurm": {
+                "name": "Spawning Wurm",
+                "cost": 7,
+                "faction": [
+                  "Blob"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 1,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "brainworld": {
+                "name": "Brain World",
+                "cost": 8,
+                "faction": [
+                  "Machine Cult"
+                ],
+                "type": "base",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "mercbattlecruiser": {
+                "name": "Merc Battlecruiser",
+                "cost": 6,
+                "faction": [
+                  "Unaligned"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 1
+              },
+              "freightraft": {
+                "name": "Freight Raft",
+                "cost": 3,
+                "faction": [
+                  "Trade Federation"
+                ],
+                "type": "ship",
+                "count": 1,
+                "scrapCount": 0,
+                "discardCount": 0,
+                "destroyedCount": 0,
+                "playedCount": 0
+              }
+            },
+            "authority": 8
+          }
+        ]
+      }
+    ]
+  }
+}
